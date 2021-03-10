@@ -7,9 +7,9 @@ html, body {
   height: 100%;
 }
 body {
-  background: #f1f1f1​;
+  background: #f1f1f1;
 }
-#root​ {
+#root {
   width: 100%;
   height: 100%;
 }
@@ -22,17 +22,17 @@ body {
   font-size: 22px;
   font-weight: bold;
   font-style: italic;
-  color: #f1f1f1​;
-  background: #3367d6​;
+  color: #f1f1f1;
+  background: #0000FF;
   padding: 40px;
 }
 /* The note */
 .note {
-  color: #adadad​;
+  color: #adadad;
   padding: 40px;
   margin: 20px;
-  background: #fff​;
-  border: solid 1px #e9e9e9​;
+  background: #fff;
+  border: solid 1px #e9e9e9;
   cursor: pointer;
   box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);
   -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);
@@ -76,7 +76,7 @@ body {
   padding: 0 20px;
   border: none;
   outline: none;
-  background: #2850a7​;
+  background: #0000FF;
   font-size: 16px;
-  color: #f1f1f1​;
+  color: #f1f1f1;
 }
